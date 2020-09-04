@@ -1,16 +1,13 @@
-### Hi there 👋
+<h3 align="center">I'm HSGamer, and welcome to my profile</h3>
+<p align="center">
+  <a href="https://www.spigotmc.org/members/248240/">Spigot</a> <a href="https://www.facebook.com/huynhquang.tien.33/">Facebook</a>
+</p>
 
-<!--
-**HSGamer/HSGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm a university student, and a free-time Spigot plugin developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in brainstorming ideas on my bicycle and coding weird things. Currently learning everything on programming.
+
+---
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hsgamer)
