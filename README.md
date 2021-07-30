@@ -9,5 +9,5 @@
 <hr>
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=hsgamer)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsgamer)
+![Github stats](https://github-readme-stats.vercel.app/api?username=hsgamer&theme=dark&hide=issues&count_private=true&hide_border=true)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannpaechnatz&layout=compact&theme=dark&hide=ruby&langs_count=8&card_width=300&hide_border=true)
