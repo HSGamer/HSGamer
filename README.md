@@ -9,4 +9,5 @@
 <hr>
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hsgamer)
+![Github stats](https://github-readme-stats.vercel.app/api?username=hsgamer)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsgamer)
