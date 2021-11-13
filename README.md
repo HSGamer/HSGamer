@@ -11,3 +11,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hsgamer&theme=dark&hide=issues&count_private=true&hide_border=true)
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsgamer&theme=dark&layout=compact&hide=ruby&langs_count=8&card_width=300&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HSGamer&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
