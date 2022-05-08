@@ -1,5 +1,5 @@
 # 💫About Me :
-* I'm a university student, and a free-time Spigot plugin developer.
+* I'm a university student, and a free-time developer.
 * I'm interested in brainstorming ideas on my bicycle and coding weird things.
 * Currently learning everything on programming.
 
