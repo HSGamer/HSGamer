@@ -20,7 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HSGamer&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=HSGamer&icon=2&color=0)](https://visitcount.itsvg.in) [![committers.top badge](https://user-badge.committers.top/vietnam/HSGamer.svg)](https://user-badge.committers.top/vietnam/HSGamer)
 
   ## 💰You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/HSGamer1234) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/hsgamer) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hsgamer) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hsgamer_mc) [![Liberapay receiving](https://img.shields.io/liberapay/receives/HSGamer?label=liberapay&logo=liberapay&style=for-the-badge)](https://liberapay.com/HSGamer/)
