@@ -11,6 +11,7 @@
 # 📊 Stats :
 ![Stats](./profile/stats.svg)<br/>
 ![Top Languages](./profile/top-langs.svg)
+
 [![Modrinth](https://modfolio.creeperkatze.de/modrinth/user/hsgamer)](https://modrinth.com/user/hsgamer)
 [![SpigotMC](https://modfolio.creeperkatze.de/spigot/author/248240)](https://www.spigotmc.org/resources/authors/HSGamer.248240/)
 
