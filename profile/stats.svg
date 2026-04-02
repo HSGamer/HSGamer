@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Huynh Tien's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 129, Total Commits  : 13166, Total PRs: 452, Total Issues: 151, Contributed to (last year): 62</desc>
+        <desc id="descId">Total Stars Earned: 129, Total Commits  : 13166, Total PRs: 452, Total Issues: 151, Contributed to (last year): 61</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -202,7 +202,7 @@
         x="199.01"
         y="12.5"
         data-testid="contribs"
-      >62</text>
+      >61</text>
     </g>
   </g>
     </svg>
