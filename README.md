@@ -28,15 +28,16 @@ Many of my core projects are housed in specialized GitHub organizations. Here is
 ### ⚡ [Folia-Inquisitors](https://github.com/Folia-Inquisitors)
 *Collaborative effort porting and optimizing essential Spigot plugins for regionalized multi-threaded paper/folia servers.*
 * **[MoreFoWorld](https://github.com/Folia-Inquisitors/MoreFoWorld)** — A reference world manager built specifically for Folia servers.
-* **[PlaceholderAPI-Folia](https://github.com/Folia-Inquisitors/PlaceholderAPI-Folia)** — Seamless port of the popular placeholder framework to multi-threaded environments.
-* **[WorldGuard-Folia](https://github.com/Folia-Inquisitors/WorldGuard-Folia)** — Port of the classic WorldGuard protection engine.
 * **[SuperVanish-Folia](https://github.com/Folia-Inquisitors/SuperVanish-Folia)** — Port of the player invisibility plugin.
 
 ### 🌐 [ProjectUnified](https://github.com/ProjectUnified)
 *Unified libraries, utilities, and frameworks to simplify Minecraft-related development and server administration.*
-* **[UniDialog](https://github.com/ProjectUnified/UniDialog)** — Fluent API library to easily design and manage Minecraft dialog systems.
 * **[MCServerUpdater](https://github.com/ProjectUnified/MCServerUpdater)** — Lightweight tool to automate Minecraft server jar updates.
+* **[UniDialog](https://github.com/ProjectUnified/UniDialog)** — Fluent API library to easily design and manage Minecraft dialog systems.
 * **[UniHologram](https://github.com/ProjectUnified/UniHologram)** — A unified abstraction layer for managing holograms across multiple hologram provider plugins.
+* **[UniItem](https://github.com/ProjectUnified/UniItem)** — A unified abstraction layer for managing items across multiple item provider plugins.
+* **[CraftItem](https://github.com/ProjectUnified/CraftItem)** — A library for crafting items in Minecraft.
+* **[CraftUX](https://github.com/ProjectUnified/CraftUX)** — A library for making grid-like GUIs, mostly for Minecraft plugins.
 
 ---
 
@@ -44,6 +45,12 @@ Many of my core projects are housed in specialized GitHub organizations. Here is
 
 * **[HSGamer/HSCore](https://github.com/HSGamer/HSCore)** — The core utility dependency library that powers all my Minecraft plugins and personal Java tools.
 * **[HSGamer/typst-mmdr](https://github.com/HSGamer/typst-mmdr)** — A Typst plugin that integrates and compiles Mermaid diagrams natively using WebAssembly.
+
+---
+
+## 🔮 Upcoming Projects
+
+* **[HSGamer/BetterDungeons](https://github.com/HSGamer/BetterDungeons)** — A dungeon plugin for Minecraft servers.
 
 ---
 
