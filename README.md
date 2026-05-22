@@ -137,5 +137,6 @@ Many of my core projects are housed in specialized GitHub organizations. Here is
 
 If you find my projects helpful and would like to support their ongoing development, any donation is greatly appreciated!
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/HSGamer)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/HSGamer1234) 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/hsgamer)
