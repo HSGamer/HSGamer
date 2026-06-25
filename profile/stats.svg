@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Huynh Tien's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 151, Total Commits  : 14987, Total PRs: 455, Total Issues: 152, Contributed to (last year): 79</desc>
+        <desc id="descId">Total Stars Earned: 153, Total Commits  : 14989, Total PRs: 455, Total Issues: 152, Contributed to (last year): 79</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 23.891718286661387;
+        stroke-dashoffset: 23.686398743453637;
       }
     }
   
@@ -158,7 +158,7 @@
         x="199.01"
         y="12.5"
         data-testid="stars"
-      >151</text>
+      >153</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
