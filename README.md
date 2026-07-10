@@ -93,10 +93,10 @@ Many of my core projects are housed in specialized GitHub organizations. Here is
 
 <p align="center">
   <a href="https://modrinth.com/user/hsgamer">
-    <img src="https://modfolio.creeperkatze.de/modrinth/user/hsgamer" alt="Modrinth Badge" />
+    <img src="https://modfolio.creeperkatze.dev/modrinth/user/hsgamer" alt="Modrinth Badge" />
   </a>
   <a href="https://www.spigotmc.org/resources/authors/HSGamer.248240">
-    <img src="https://modfolio.creeperkatze.de/spigot/author/248240" alt="SpigotMC Badge" />
+    <img src="https://modfolio.creeperkatze.dev/spigot/author/248240" alt="SpigotMC Badge" />
   </a>
 </p>
 
